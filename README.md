@@ -19,7 +19,7 @@ Enthusiast of Technology and coding  👽
 
 ### About Me 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Hadryanpaulo)](https://github.com/Hadryanpaulo)
+[![Dio Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.dio.me/users/paulolima3425)](https://www.dio.me/users/paulolima3425)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hadryan-paulo/)](https://www.linkedin.com/in/hadryan-paulo/)
 
 <p align="center">- Thanks for visiting.</p>
