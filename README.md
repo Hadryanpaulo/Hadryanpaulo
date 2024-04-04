@@ -19,7 +19,7 @@ Enthusiast of Technology and coding  👽
 
 ### About Me 
 <a href="https://www.dio.me/users/paulolima3425">
-    <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="30">
+    <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="40">
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hadryan-paulo/)](https://www.linkedin.com/in/hadryan-paulo/)
