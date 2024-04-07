@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Título e imagem alinhados -->
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F720&random=false&width=435&lines=Hello%2C+World!;I'm+Hadryan;I'm+Cibersecurity%2C+Ethical+hacker!</h1>
+
 <img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350">
 
 ## Who am I?
