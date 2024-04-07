@@ -1,3 +1,8 @@
+<div class='background-container'>
+    <img src="caminho-para-sua-imagem-aqui" class="typing-animation" alt="">
+    <h1 align="center">Hello!</h1>
+    <img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
+</div>
 
 <!---
 Hadryanpaulo/Hadryanpaulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
