@@ -1,27 +1,32 @@
 <div align="center">
-<img src="./banner-de-fundo-portifolio-github.png" alt="Hadryan Freitas — Cybersecurity Portfolio" width="100%">
 
-# Hadryan Freitas
+<img src="./banner-de-fundo-portifolio-github.png" alt="Hadryan Freitas — Cybersecurity Portfolio" width="100%" />
 
-**Junior Cybersecurity Analyst | NOC & SOC | Blue Team**
+# HADRYAN FREITAS
+### Junior Cybersecurity Analyst · NOC & SOC · Blue Team · Incident Response
+#### Pentest & Red Team in Training
 
-Hands-on NOC/SOC professional experience, combined with ongoing self-study in Detection Engineering, Incident Response, and Security Automation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hadryan--freitas-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/hadryan-freitas/)
+[![GitHub](https://img.shields.io/badge/GitHub-hadryan--freitas-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/hadryan-freitas)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Azeraphx1-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FFA3)](https://tryhackme.com/p/Azeraphx1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hadryan--freitas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadryan-freitas/)
-[![GitHub](https://img.shields.io/badge/GitHub-hadryan--freitas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hadryan-freitas)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Azeraphx1-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Azeraphx1)
+Defensive Security · Continuous Monitoring · Offensive Security in Training
 
 </div>
 
-## About Me
+---
 
-I currently work as a Junior Cybersecurity Analyst, providing NOC/SOC support: monitoring IT infrastructure (network, servers, and services), performing initial alert triage, and handling the identification and first response to incidents to keep environments available, secure, and performing well.
+### `$ whoami`
 
-Alongside this professional experience, I am developing additional hands-on skills through home labs and documented projects, focused on Blue Team operations, detection engineering, and security automation. This GitHub profile records both my confirmed professional experience and my ongoing personal study.
+Junior Cybersecurity Analyst working in NOC/SOC support.
 
-## Professional Experience (NOC/SOC)
+I monitor infrastructure, perform initial alert triage, and help identify and respond to incidents — keeping environments available, secure, and performing well.
 
-Day-to-day responsibilities in my current role include:
+Alongside this role, I study and build Blue Team, detection, and automation skills through personal labs. This profile reflects both confirmed professional experience and ongoing self-study.
+
+---
+
+### `$ cat professional_experience.log`
 
 - Monitoring of environments and infrastructure (network, servers, services)
 - Tracking availability and performance
@@ -32,20 +37,19 @@ Day-to-day responsibilities in my current role include:
 - Escalation of occurrences
 - Support to NOC and SOC operations
 
-## Tools I Use Professionally
+<table>
+<tr><th>Area</th><th>Tools</th></tr>
+<tr><td>Monitoring</td><td>Zabbix, Grafana</td></tr>
+<tr><td>Security Operations / SIEM</td><td>Wazuh</td></tr>
+<tr><td>Network Security</td><td>FortiGate, Cisco switches, Aruba switches</td></tr>
+<tr><td>Collaboration / Infrastructure</td><td>Microsoft 365</td></tr>
+</table>
 
-| Area | Tools |
-|---|---|
-| Monitoring | Zabbix, Grafana |
-| Security Operations / SIEM | Wazuh |
-| Network Security | FortiGate, Cisco switches, Aruba switches |
-| Collaboration / Infrastructure | Microsoft 365 |
+*Used in a support and operational capacity, as part of NOC/SOC duties — not as the administrator responsible for full configuration or architecture.*
 
-*I work with these tools in a support and operational capacity as part of NOC/SOC duties — not as the administrator responsible for their full configuration or architecture.*
+---
 
-## Current Focus (Self-Study)
-
-These are areas I am actively studying and applying through personal labs, outside of my day-to-day job:
+### `$ cat current_focus.log`
 
 - SIEM deployment, monitoring, and alert triage
 - Wazuh and ELK Stack fundamentals
@@ -55,48 +59,71 @@ These are areas I am actively studying and applying through personal labs, outsi
 - MITRE ATT&CK mapping
 - Python for security automation
 
-## Areas in Active Development (Not Professional Experience Yet)
+> **Areas in Active Development** — personal study, not professional experience: Penetration Testing · Red Team · Security Research · Malware Analysis basics
 
-- Penetration Testing fundamentals
-- Red Team fundamentals
-- Security research
-- Malware analysis basics
+---
 
-## Technical Skills
+### `$ cat technical_skills.log`
 
-| Area | Technologies and Concepts |
-|---|---|
-| Blue Team | Wazuh, ELK Stack, SIEM Concepts, Sysmon, Windows Event Logs |
-| Security Operations | Alert Triage, Log Analysis, Incident Response, Threat Hunting |
-| Detection Engineering | Detection Fundamentals, Rule Testing, MITRE ATT&CK Mapping |
-| Programming | Python, Bash, PowerShell |
-| Infrastructure | Linux, Windows, Docker, Git |
+**Professional Exposure** — used in my current role
 
-## Portfolio Projects
+- Zabbix
+- Grafana
+- Wazuh
+- FortiGate
+- Cisco switches
+- Aruba switches
+- Microsoft 365
+- Infrastructure monitoring
+- Alert triage
+- Ticket handling
+- Incident escalation
+
+**Active Study** — personal labs, not professional experience
+
+- ELK Stack
+- Sysmon
+- Threat Hunting
+- Detection Engineering
+- MITRE ATT&CK
+- Python for Security
+- Bash
+- PowerShell
+- Pentest
+- Red Team
+- Malware Analysis
+
+---
+
+### `$ ls ./portfolio_projects/`
 
 | Category | Project | Status |
 |---|---|---|
-| Security Monitoring | Wazuh home lab for centralized Linux and Windows monitoring | In development |
-| Detection Engineering | Windows telemetry and Sysmon detection lab | Planned |
-| Automation | Python tools for log analysis and security task automation | Planned |
-| Incident Response | Investigation reports based on simulated security alerts | Planned |
-| Learning Projects | Focused exercises documenting objectives and lessons learned | Ongoing |
+| Security Monitoring | Wazuh home lab — centralized Linux and Windows monitoring | ![In Development](https://img.shields.io/badge/-in--development-22D3EE?style=flat-square) |
+| Detection Engineering | Windows telemetry and Sysmon detection lab | ![Planned](https://img.shields.io/badge/-planned-6E7681?style=flat-square) |
+| Automation | Python tools for log analysis and automation | ![Planned](https://img.shields.io/badge/-planned-6E7681?style=flat-square) |
+| Incident Response | Investigation reports from simulated alerts | ![Planned](https://img.shields.io/badge/-planned-6E7681?style=flat-square) |
+| Learning Projects | Focused exercises with documented lessons learned | ![Ongoing](https://img.shields.io/badge/-ongoing-00FFA3?style=flat-square) |
 
-This portfolio is a work in progress. Projects are added only once they have real, documented, reproducible content.
+*Work in progress — projects are added only once they have real, documented, reproducible content.*
 
-## Project Documentation Standard
+<details>
+<summary><strong>Project Documentation Standard</strong></summary>
+<br>
 
-Every security project in this portfolio aims to include:
+- Problem statement and objective
+- Architecture, environment, and technologies used
+- Reproducible setup and implementation steps
+- Screenshots, logs, alerts, or example outputs (sanitized)
+- Investigation process and technical analysis
+- MITRE ATT&CK mapping when applicable
+- Lessons learned, limitations, and next improvements
 
-1. Problem statement and objective
-2. Architecture, environment, and technologies used
-3. Reproducible setup and implementation steps
-4. Screenshots, logs, alerts, or example outputs (sanitized)
-5. Investigation process and technical analysis
-6. MITRE ATT&CK mapping when applicable
-7. Lessons learned, limitations, and next improvements
+</details>
 
-## Learning Roadmap
+<details>
+<summary><strong>Learning Roadmap</strong></summary>
+<br>
 
 - [ ] Deploy a Wazuh manager and connect Linux and Windows agents
 - [ ] Collect and analyze Windows Event Logs and Sysmon telemetry
@@ -105,7 +132,11 @@ Every security project in this portfolio aims to include:
 - [ ] Build Python scripts for log parsing and enrichment
 - [ ] Publish reproducible Blue Team project documentation
 
-## How I Work
+</details>
+
+---
+
+### `$ cat how_i_work.md`
 
 1. Build a small and reproducible lab.
 2. Generate or collect relevant security telemetry.
@@ -114,15 +145,27 @@ Every security project in this portfolio aims to include:
 5. Automate repeatable steps where automation adds value.
 6. Record lessons learned and define the next iteration.
 
-## Languages
+---
 
-- Portuguese — Native
-- English — Basic to intermediate, focused on technical reading and continuous development
+<div align="center">
 
-## Connect
+**Languages**
+Portuguese — Native &nbsp;·&nbsp; English — Basic to intermediate, technical reading focus
 
-I am open to exchanging knowledge about Blue Team Operations, Security Monitoring, Threat Detection, Incident Response, and Security Automation. I am also open to remote opportunities and freelance projects compatible with my current junior level (NOC/SOC support, monitoring, alert triage, documentation, and basic vulnerability analysis).
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/hadryan-freitas/)
-- [GitHub](https://github.com/hadryan-freitas)
-- [TryHackMe](https://tryhackme.com/p/Azeraphx1)
+---
+
+### `$ connect --open-to remote,freelance`
+
+Open to exchanging knowledge on Blue Team Operations, Security Monitoring, Threat Detection, Incident Response, and Security Automation.
+
+Open to remote opportunities and freelance work compatible with my current junior level: NOC/SOC support, monitoring, alert triage, documentation, and basic vulnerability analysis.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/hadryan-freitas/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/hadryan-freitas)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FFA3)](https://tryhackme.com/p/Azeraphx1)
+
+</div>
